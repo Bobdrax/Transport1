@@ -1,0 +1,6 @@
+,es_fin_semana,lluvia,pasajeros_hora,frecuencia_buses_min,ocupacion_pct,tiempo_espera_min,es_hora_pico,grupo,perfil,dist_centroide,p95_train
+"A. 7 a.m., lluvia, 2500 pas/h",0.0,1.0,2500.0,4.0,95.0,8.0,1.0,0,Hora pico (alta carga),1.25,1.93
+B. 13 h entre semana,0.0,0.0,900.0,10.0,55.0,8.0,0.0,2,Valle entre semana,0.59,1.93
+C. Sabado 15 h,1.0,0.0,700.0,13.0,42.0,11.0,0.0,3,Fin de semana,1.05,1.93
+D. 5 a.m. entre semana,0.0,0.0,250.0,17.0,20.0,16.0,0.0,1,Madrugada/noche (baja demanda),0.51,1.93
+E. Atipico (extremo),0.0,1.0,6000.0,1.0,150.0,40.0,1.0,0,Hora pico (alta carga),10.98,1.93

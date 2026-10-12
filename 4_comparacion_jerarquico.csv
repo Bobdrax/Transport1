@@ -1,0 +1,5 @@
+metodo,silueta,davies_bouldin,ARI_vs_kmeans
+kmeans,0.514,0.848,1.0
+jerarquico_ward,0.513,0.854,0.995
+jerarquico_complete,0.513,0.854,0.995
+jerarquico_average,0.513,0.854,0.995

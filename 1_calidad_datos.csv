@@ -1,0 +1,9 @@
+,nulos,min,max,media,desv,outliers_IQR
+hora_dia,0,4.0,22.0,13.13,4.76,0
+es_fin_semana,0,0.0,1.0,0.18,0.39,74
+lluvia,0,0.0,1.0,0.32,0.47,0
+pasajeros_hora,0,114.0,3224.0,1399.68,899.72,0
+frecuencia_buses_min,0,3.0,19.0,9.1,4.49,0
+ocupacion_pct,0,11.7,109.7,64.68,28.74,0
+tiempo_espera_min,0,5.0,19.9,9.74,3.14,19
+es_hora_pico,0,0.0,1.0,0.46,0.5,0
